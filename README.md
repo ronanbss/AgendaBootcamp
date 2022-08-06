@@ -5,6 +5,3 @@
 1. Inserção de Eventos na Agenda
    - [release/insercao-eventos-agenda](https://github.com/ronanbss/AgendaBootcamp/tree/insercao-eventos-agenda)
 
-2. -
-   - [release/-](-)
-
